@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitin Kumar Singh (@singhnitink)
-- 👀 I’m interested in Molecular Simulation of Proteins
+- 👀 I’m interested in Biomolecular Simulations
 - 🌱 I’m currently learning new data mining techniques
 - 💞️
 - 📫 How to reach me at https://twitter.com/NitinSingh3328
